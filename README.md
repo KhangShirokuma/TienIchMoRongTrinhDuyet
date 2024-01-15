@@ -24,8 +24,6 @@ ChongLuaDao
 
 CNET Shopping
 
-Consent-O-Matic
-
 Cứu Truyện - Chọn Chương
 
 ---
