@@ -97,7 +97,7 @@ OpenTab
 ---
 ## **[P](/P/README.md)**
 
-Pictuce-in-Picture Extension (by Google)
+Pictuce-in-Picture (Chế độ Hình trong hình) (tính năng có sẵn; không phải tiện ích mở rộng)
 
 Privacy Badger
 

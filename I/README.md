@@ -6,9 +6,9 @@
 
 ### IDM Integration Module
 
-Tải tệp bằng Internet Download Manager.  
-Được cài đặt cho trình duyệt mạng khi cài đặt phần mềm Internet Download Manager cho máy tính.
+Tải tệp bằng Internet Download Manager.
 
+Được cài đặt cho trình duyệt mạng khi cài đặt phần mềm Internet Download Manager cho máy tính.  
 Nếu tiện ích mở rộng này không được cài, sử dụng các đường dẫn ở dưới.
 
 - **[Bản dành cho Google Chrome và các trình duyệt mạng nhân Chromium](https://chromewebstore.google.com/detail/idm-integration-module/ngpampappnmepgilojfohadhhmbhlaek?hl=vi)**
