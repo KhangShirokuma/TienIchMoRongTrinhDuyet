@@ -38,3 +38,5 @@ Chọn chương truyện khi đang đọc truyện trên [Cứu Truyện](https:
 Lưu các truyện và chương đã đọc.
 
 - **[Bản dành cho Google Chrome và các trình duyệt mạng nhân Chromium](https://github.com/khangquangtran/CuuTruyenChonChuong)**
+
+---

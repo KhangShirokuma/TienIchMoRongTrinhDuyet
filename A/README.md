@@ -20,3 +20,5 @@ Trình chặn quảng cáo.
 - **[Bản dành cho Google Chrome và các trình duyệt mạng nhân Chromium](https://chromewebstore.google.com/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg?hl=vi)**
 
 - **[Bản dành cho FireFox](https://addons.mozilla.org/vi/firefox/addon/adguard-adblocker/)**
+
+---

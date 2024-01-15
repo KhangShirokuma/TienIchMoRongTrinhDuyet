@@ -21,3 +21,5 @@ Người dùng có thể bổ sung trang mong muốn vào danh sách trang tùy 
 - **[Bản dành cho Google Chrome và các trình duyệt mạng nhân Chromium](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean)**
 
 - **[Bản dành cho FireFox](https://gitlab.com/magnolia1234/bypass-paywalls-firefox-clean)**
+
+---

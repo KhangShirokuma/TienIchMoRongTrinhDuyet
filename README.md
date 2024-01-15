@@ -109,6 +109,8 @@ Return YouTube Dislike
 ---
 ## **[S](/S/README.md)**
 
+Simple YouTube Age Restriction Bypass
+
 SponsorBlock for YouTube - Skip Sponsorships
 
 ---
@@ -124,5 +126,11 @@ The Marvellous Suspender
 uBlock Origin
 
 Unpaywall
+
+---
+
+## **[V](/V/README.md)**
+
+Violentmonkey
 
 ---
