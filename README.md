@@ -6,6 +6,8 @@
 
 Adblock Plus - free ad blocker
 
+ADeleter
+
 AdGuard AdBlocker
 
 ---
