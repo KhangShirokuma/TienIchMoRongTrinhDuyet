@@ -4,6 +4,15 @@
 
 ## Tiện ích mở rộng có tên bắt đầu với chữ cái S
 
+### Search by Image
+
+Công cụ tìm hình ảnh, với sự hỗ trợ của nhiều máy tìm kiếm như Google, Bing, Yandex, Baidu và TinEye.
+
+- **[Bản dành cho Google Chrome và các trình duyệt mạng nhân Chromium](https://chromewebstore.google.com/detail/search-by-image/cnojnbdhbhnkbcieeekonklommdnndci?hl=vi)**
+
+- **[Bản dành cho FireFox](https://addons.mozilla.org/vi/firefox/addon/search_by_image/)**
+
+---
 ### Simple YouTube Age Restriction Bypass
 
 Giúp xem vi-đê-ô có giới hạn tuổi trên YouTube mà không cần đăng nhập và không cần xác nhận tuổi.

@@ -49,3 +49,12 @@ Theo dõi thay đổi của trang mạng.
 - **[Bản dành cho FireFox](https://addons.mozilla.org/vi/firefox/addon/distill-web-monitor-ff/)**
 
 ---
+### DownThemAll!
+
+Chọn, xếp hàng, sắp xếp và tiến hành việc tải về được nhanh hơn.
+
+- **[Bản dành cho Google Chrome và các trình duyệt mạng nhân Chromium](https://chromewebstore.google.com/detail/downthemall/nljkibfhlpcnanjgbnlnbjecgicbjkge?hl=vi)**
+
+- **[Bản dành cho FireFox](https://addons.mozilla.org/vi/firefox/addon/downthemall/)**
+
+---
